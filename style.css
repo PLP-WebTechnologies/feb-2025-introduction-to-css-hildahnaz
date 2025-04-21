@@ -1,0 +1,28 @@
+#google {
+    color: green;
+    text-decoration: none;
+    font-weight: bold
+
+}
+.home-footer{
+    color: chocolate;
+    font-weight: bold;
+}
+
+body  {
+    background-image: url('../images/bananas.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+
+
+
+    
+
+
+
